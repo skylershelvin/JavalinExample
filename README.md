@@ -23,7 +23,9 @@ gh repo clone skylershelvin/JavalinExample
 ## Project Structure
 
 src/main/java/org/skylershelvin - Entry Point for application 
+
 src/main/java/org/skylershelvin/MyApp.java - Starting Point and configuration of javalin routes
+
 src/main/java/org/skylershelvin/TaskController.java - Controller class handeling CRUD operations
 ## Feedback
 
